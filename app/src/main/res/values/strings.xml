@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aug2021-makeupClass</string>
+    <string name="helloWorld">HelloWorld</string>
+    <string name="hello_world">hello world</string>
+    <string name="enter_your_username">Username: xyz12@gmail.com</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="click_here_to_login">Click here to login</string>
+</resources>
